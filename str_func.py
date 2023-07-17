@@ -1,3 +1,8 @@
 def func(value):
-    """Вернет функцию"""
+    """Вернет функцию обратно"""
     return value.upper()
+
+
+def scr(value):
+    """Вернет функцию"""
+    return value.tittle()
